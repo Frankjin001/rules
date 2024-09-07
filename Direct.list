@@ -1,10 +1,30 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# MyList
+# MyList from Qichiyu
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+
+# talkatone直连规则
+DOMAIN-SUFFIX,mobilefuse.com,DIRECT
+DOMAIN-SUFFIX,inmobi.com,DIRECT
+DOMAIN-SUFFIX,crashlytics.com,DIRECT
+DOMAIN-SUFFIX,talkatone.com,DIRECT
+DOMAIN-SUFFIX,kochava.com,DIRECT
+DOMAIN-SUFFIX,cohere.com,DIRECT
+DOMAIN-SUFFIX,ip-api.com,DIRECT
+DOMAIN-SUFFIX,agkn.com,DIRECT
+DOMAIN-SUFFIX,tktn.at,DIRECT
+IP-CIDR,50.117.27.0/24,DIRECT
+IP-CIDR,69.46.75.0/24,DIRECT
+IP-CIDR,205.164.56.0/24,DIRECT
+IP-CIDR,63.251.124.0/24,DIRECT
+
+#玩偶直连
+DOMAIN-SUFFIX,888484.xyz,DIRECT
+DOMAIN-SUFFIX,333232.xyz,DIRECT
+DOMAIN-SUFFIX,wogg.bf,DIRECT
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
