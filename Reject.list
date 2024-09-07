@@ -1,0 +1,9 @@
+;this defines the ad list which will be blocked/rejected in rules file
+
+
+DOMAIN-SUFFIX,criteo.com
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-KEYWORD,googleads
+DOMAIN-SUFFIX,adsappier.com
