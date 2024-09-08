@@ -17,7 +17,7 @@
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/Frankjin001/rules/main/Reject.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/Frankjin001/rules/main/Direct.list
 ruleset=🎯 tktn节点,https://raw.githubusercontent.com/Frankjin001/rules/main/tktn.list
-
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/Frankjin001/rules/main/ProxyLite.list
 
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
