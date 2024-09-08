@@ -1,5 +1,9 @@
 # 代理补充列表
 
+#Aljazeera, CNA
+DOMAIN,live-hls-web-aje.getaj.net
+DOMAIN,d2e1asnsl7br7b.cloudfront.net
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
