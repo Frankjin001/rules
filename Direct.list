@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,888484.xyz
 DOMAIN-SUFFIX,333232.xyz
 DOMAIN-SUFFIX,wogg.bf
 DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,cloudflare.com
+#DOMAIN-SUFFIX,cloudflare.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
