@@ -21,11 +21,12 @@ IP-CIDR,69.46.75.0/24
 IP-CIDR,205.164.56.0/24
 IP-CIDR,63.251.124.0/24
 
-#玩偶直连,openwrt直连
+#玩偶直连,openwrt直连,cloudflare
 DOMAIN-SUFFIX,888484.xyz
 DOMAIN-SUFFIX,333232.xyz
 DOMAIN-SUFFIX,wogg.bf
 DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,cloudflare.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
