@@ -5,6 +5,9 @@ DOMAIN,live-hls-web-aje.getaj.net
 DOMAIN,d2e1asnsl7br7b.cloudfront.net
 DOMAIN,epg.112114.xyz
 
+# add 114av.one to go with proxy
+DOMAIN-SUFFIX,114av.one
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
