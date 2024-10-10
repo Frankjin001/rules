@@ -8,6 +8,9 @@ DOMAIN,epg.112114.xyz
 # add 114av.one to go with proxy
 DOMAIN-SUFFIX,114av.one
 
+# add copilot to go with proxy
+DOMAIN-SUFFIX,copilot.microsoft.com
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
