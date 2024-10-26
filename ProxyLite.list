@@ -2,7 +2,7 @@
 
 # IPTV中Aljazeera, CNA, 电视节目单
 DOMAIN,live-hls-web-aje.getaj.net
-DOMAIN,d2e1asnsl7br7b.cloudfront.net
+#DOMAIN,d2e1asnsl7br7b.cloudfront.net   ###disabled as the domain cloudfront.net is included below.
 DOMAIN,epg.112114.xyz
 
 # add 114av.one to go with proxy
@@ -10,6 +10,12 @@ DOMAIN-SUFFIX,114av.one
 
 # add copilot to go with proxy
 DOMAIN-SUFFIX,copilot.microsoft.com
+
+# add international IPTV web sites to go with proxy
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,lg.wurl.tv
+DOMAIN-SUFFIX,amagi.tv
+DOMAIN-SUFFIX,xiaomi.wurl.tv
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
