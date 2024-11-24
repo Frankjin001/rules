@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-KEYWORD,googleads
 DOMAIN-SUFFIX,adsappier.com
+
+
+;add Douyin to reject list on 20241124
+DOMAIN-SUFFIX,douyinvod.com
