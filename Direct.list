@@ -147,11 +147,14 @@ DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytexservice.com
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,douyinvod.com
+
+#disable douyin from the directlist and disable it in Rejectlist
+##DOMAIN-SUFFIX,douyin.com
+##DOMAIN-SUFFIX,douyincdn.com
+##DOMAIN-SUFFIX,douyinpic.com
+##DOMAIN-SUFFIX,douyinstatic.com
+##DOMAIN-SUFFIX,douyinvod.com
+
 DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,gifshow.com
