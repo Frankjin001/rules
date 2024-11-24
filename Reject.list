@@ -14,3 +14,6 @@ DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
+
+;add xiaohongshu to reject list
+DOMAIN-SUFFIX,xiaohongshu.com
