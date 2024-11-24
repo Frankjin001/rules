@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-KEYWORD,googleads
 DOMAIN-SUFFIX,adsappier.com
 
-;add Douyin to reject list on 20241124
+;add Douyin to reject list on 20241124, those items are also commented in Directlist
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
