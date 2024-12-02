@@ -8,6 +8,9 @@ DOMAIN,epg.112114.xyz
 # test for opkg update from the original source, 20241130
 DOMAIN,downloads.openwrt.org
 
+# test for raw.githubusercontent.com, 20241202
+DOMAIN,raw.githubusercontent.com
+
 # add 114av.one to go with proxy
 DOMAIN-SUFFIX,114av.one
 
