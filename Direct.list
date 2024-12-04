@@ -582,11 +582,12 @@ DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,womai.com
 DOMAIN-SUFFIX,wscdns.com
 DOMAIN-SUFFIX,xdrig.com
-DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiachufang.com
+
 
 # disable xiaohongshu from direct list, and also add it to reject list.
 # DOMAIN-SUFFIX,xiaohongshu.com
+# DOMAIN-SUFFIX,xhscdn.com
 
 DOMAIN-SUFFIX,xiaojukeji.com
 DOMAIN-SUFFIX,xinhuanet.com
