@@ -9,11 +9,11 @@ DOMAIN-KEYWORD,googleads
 DOMAIN-SUFFIX,adsappier.com
 
 ;add Douyin to reject list on 20241124, those items are also commented in Directlist
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
+;DOMAIN-SUFFIX,douyinvod.com
+;DOMAIN-SUFFIX,douyin.com
+;DOMAIN-SUFFIX,douyincdn.com
+;DOMAIN-SUFFIX,douyinpic.com
+;DOMAIN-SUFFIX,douyinstatic.com
 
 ;add xiaohongshu to reject list, and also remove it from direct list
 DOMAIN-SUFFIX,xiaohongshu.com
