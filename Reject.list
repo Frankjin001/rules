@@ -3,6 +3,7 @@
 # this is to block the douyin IP address from iPad.
 IP-CIDR,180.163.116.0/24
 IP-CIDR,61.170.96.153/32
+IP-CIDR,61.170.110.42/32
 
 
 DOMAIN-SUFFIX,criteo.com
