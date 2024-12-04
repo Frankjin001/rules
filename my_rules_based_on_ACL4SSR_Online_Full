@@ -14,10 +14,19 @@
 
 ;设置规则标志位
 
-ruleset=🛑 广告拦截,https://raw.githubusercontent.com/Frankjin001/rules/main/Reject.list
-ruleset=🎯 全球直连,https://raw.githubusercontent.com/Frankjin001/rules/main/Direct.list
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/Frankjin001/rules/main/ProxyLite.list
-ruleset=🎯 tktn节点,https://raw.githubusercontent.com/Frankjin001/rules/main/tktn.list
+
+;这是旧的raw链接，下面更改为新的，20241204
+;ruleset=🛑 广告拦截,https://raw.githubusercontent.com/Frankjin001/rules/main/Reject.list
+;ruleset=🎯 全球直连,https://raw.githubusercontent.com/Frankjin001/rules/main/Direct.list
+;ruleset=🚀 节点选择,https://raw.githubusercontent.com/Frankjin001/rules/main/ProxyLite.list
+;ruleset=🎯 tktn节点,https://raw.githubusercontent.com/Frankjin001/rules/main/tktn.list
+
+;这是新的raw链接， 20241204
+ruleset=🛑 广告拦截,https://raw.githubusercontent.com/Frankjin001/rules/refs/heads/main/Reject.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/Frankjin001/rules/refs/heads/main/Direct.list
+ruleset=🚀 节点选择,https://raw.githubusercontent.com/Frankjin001/rules/refs/heads/main/ProxyLite.list
+ruleset=🎯 tktn节点,https://raw.githubusercontent.com/Frankjin001/rules/refs/heads/main/tktn.list	
+
 
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
