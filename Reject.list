@@ -1,7 +1,7 @@
 # this defines the ad list which will be blocked/rejected in rules file
 
 # this is to block the douyin IP address from iPad.
-IP-CIDR,180.163.116.63/32,REJECT
+IP-CIDR,180.163.116.63/32
 
 
 DOMAIN-SUFFIX,criteo.com
