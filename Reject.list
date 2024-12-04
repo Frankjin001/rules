@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,amemv.com
 
 # add xiaohongshu to reject list, and also remove it from direct list
 DOMAIN-SUFFIX,xiaohongshu.com
