@@ -8,6 +8,9 @@ DOMAIN,epg.112114.xyz
 # test for opkg update from the original source, 20241130
 DOMAIN,downloads.openwrt.org
 
+# test for wiki site of openclash doc
+DOMAIN,wiki.metacubex.one
+
 # test for raw.githubusercontent.com, 20241202
 DOMAIN,raw.githubusercontent.com
 
