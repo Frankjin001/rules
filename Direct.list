@@ -148,12 +148,12 @@ DOMAIN-SUFFIX,bytescm.com
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytexservice.com
 
-#disable douyin from the directlist and disable it in Rejectlist
-#DOMAIN-SUFFIX,douyin.com
-#DOMAIN-SUFFIX,douyincdn.com
-#DOMAIN-SUFFIX,douyinpic.com
-#DOMAIN-SUFFIX,douyinstatic.com
-#DOMAIN-SUFFIX,douyinvod.com
+# disable douyin from the directlist and disable it in Rejectlist
+# DOMAIN-SUFFIX,douyin.com
+# DOMAIN-SUFFIX,douyincdn.com
+# DOMAIN-SUFFIX,douyinpic.com
+# DOMAIN-SUFFIX,douyinstatic.com
+# DOMAIN-SUFFIX,douyinvod.com
 
 DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,feiliao.com
@@ -162,7 +162,7 @@ DOMAIN-SUFFIX,huoshan.com
 DOMAIN-SUFFIX,huoshanzhibo.com
 DOMAIN-SUFFIX,ibytedapm.com
 
-#DOMAIN-SUFFIX,iesdouyin.com
+# DOMAIN-SUFFIX,iesdouyin.com
 
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,kspkg.com
