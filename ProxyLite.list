@@ -12,7 +12,7 @@ DOMAIN,downloads.openwrt.org
 DOMAIN,wiki.metacubex.one
 
 # test for raw.githubusercontent.com, 20241202
-DOMAIN,raw.githubusercontent.com
+# DOMAIN,raw.githubusercontent.com
 
 # add 114av.one to go with proxy
 DOMAIN-SUFFIX,114av.one
