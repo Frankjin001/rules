@@ -28,6 +28,11 @@ DOMAIN-SUFFIX,wogg.bf
 #DOMAIN-SUFFIX,openwrt.org
 #DOMAIN-SUFFIX,cloudflare.com
 
+# Spority 直连规则, 20250112
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
