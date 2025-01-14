@@ -29,9 +29,10 @@ DOMAIN-SUFFIX,wogg.bf
 #DOMAIN-SUFFIX,cloudflare.com
 
 # Spority 直连规则, 20250112
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spotifycdn.com
-DOMAIN-SUFFIX,spotifycdn.net
+# disabled on 20250115 as I find open.spotify.com website needs a proxy to access, although the sites below won't need.
+# DOMAIN-SUFFIX,spotify.com
+# DOMAIN-SUFFIX,spotifycdn.com
+# DOMAIN-SUFFIX,spotifycdn.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
