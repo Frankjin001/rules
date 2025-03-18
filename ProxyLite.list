@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,lg.wurl.tv
 DOMAIN-SUFFIX,amagi.tv
 DOMAIN-SUFFIX,xiaomi.wurl.tv
 
+# add 肥猫云 to go with proxy
+DOMAIN-SUFFIX,fatcatcloud.cc
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
