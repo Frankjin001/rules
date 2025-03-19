@@ -24,6 +24,7 @@
 ;这是新的raw链接， 20241204
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/Frankjin001/rules/refs/heads/main/Reject.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/Frankjin001/rules/refs/heads/main/Direct.list
+
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/Frankjin001/rules/refs/heads/main/ProxyLite.list
 ruleset=🎯 tktn节点,https://raw.githubusercontent.com/Frankjin001/rules/refs/heads/main/tktn.list	
 
