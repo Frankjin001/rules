@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-KEYWORD,googleads
+
+
+
 DOMAIN-SUFFIX,adsappier.com
 
 # add Douyin to reject list on 20241124, those items are also commented in Directlist
@@ -22,7 +25,7 @@ DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,abcd.efg
+DOMAIN-KEYWORD,douyin
 
 # add xiaohongshu to reject list, and also remove it from direct list
 DOMAIN-SUFFIX,xiaohongshu.com
