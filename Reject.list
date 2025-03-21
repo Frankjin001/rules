@@ -25,3 +25,4 @@ DOMAIN-SUFFIX,amemv.com
 # add xiaohongshu to reject list, and also remove it from direct list
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
