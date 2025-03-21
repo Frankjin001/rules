@@ -1,0 +1,36 @@
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList from Qichiyu
+# 域名后缀匹配
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,hao123.com
+
+# talkatone直连规则
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,tktn.at
+IP-CIDR,50.117.27.0/24
+IP-CIDR,69.46.75.0/24
+IP-CIDR,205.164.56.0/24
+IP-CIDR,63.251.124.0/24
+
+#玩偶直连,openwrt直连,cloudflare
+DOMAIN-SUFFIX,888484.xyz
+DOMAIN-SUFFIX,333232.xyz
+DOMAIN-SUFFIX,wogg.bf
+#DOMAIN-SUFFIX,openwrt.org
+#DOMAIN-SUFFIX,cloudflare.com
+
+# Spority 直连规则, 20250112
+# disabled on 20250115 as I find open.spotify.com website needs a proxy to access, although the sites below won't need.
+# DOMAIN-SUFFIX,spotify.com
+# DOMAIN-SUFFIX,spotifycdn.com
+# DOMAIN-SUFFIX,spotifycdn.net
+
