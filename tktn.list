@@ -1,4 +1,3 @@
 ;defines the domain set for TalkTone connection, it will use TKTN连接 in rules
 
 DOMAIN-SUFFIX,tktn.be
-DOMAIN-SUFFIX,test.be
