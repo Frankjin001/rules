@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-KEYWORD,douyin
 DOMAIN-KEYWORD,bdurl.net
+DOMAIN-KEYWORD,bytedns1.com
+DOMAIN-KEYWORD,bytecdn.com
 DOMAIN,l7-online-self-domestic.s.dsa.cdnbuild.net
 
 # add xiaohongshu to reject list, and also remove it from direct list
