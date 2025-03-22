@@ -25,11 +25,11 @@ DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bytedance.com
-DOMAIN-KEYWORD,douyin
-DOMAIN-KEYWORD,bdurl.net
-DOMAIN-KEYWORD,bytedns1.com
-DOMAIN-KEYWORD,bytecdn.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,bytedns1.com
+DOMAIN-SUFFIX,bytecdn.com
 DOMAIN,l7-online-self-domestic.s.dsa.cdnbuild.net
+DOMAIN-KEYWORD,douyin
 
 # add xiaohongshu to reject list, and also remove it from direct list
 DOMAIN-SUFFIX,xiaohongshu.com
