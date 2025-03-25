@@ -30,6 +30,11 @@ DOMAIN-SUFFIX,xiaomi.wurl.tv
 # add 肥猫云 to go with proxy
 DOMAIN-SUFFIX,fatcatcloud.cc
 
+# add Spotify and Amazon Alexa to go with proxy
+DOMAIN-SUFFIX,amazonalexa.com
+DOMAIN-SUFFIX,amazon.dev
+DOMAIN-SUFFIX,spotifycdn.com
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 
