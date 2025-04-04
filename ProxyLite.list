@@ -27,8 +27,9 @@ DOMAIN-SUFFIX,lg.wurl.tv
 DOMAIN-SUFFIX,amagi.tv
 DOMAIN-SUFFIX,xiaomi.wurl.tv
 
-# add 肥猫云 to go with proxy
+# add 肥猫云，流量光 to go with proxy
 DOMAIN-SUFFIX,fatcatcloud.cc
+DOMAIN-SUFFIX,llgjc1.com
 
 # add Spotify and Amazon Alexa to go with proxy
 DOMAIN-SUFFIX,amazonalexa.com
