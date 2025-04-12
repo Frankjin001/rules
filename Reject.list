@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,xhscdn.net
 
 # add 网易音乐
 DOMAIN-SUFFIX,music.163.com
-DOMAIN-SUFFIX,music.163.net
+DOMAIN-SUFFIX,music.126.net
 DOMAIN,music.163.com
 DOMAIN-KEYWORD,music.163.com
 
