@@ -1,3 +1,4 @@
+
 # this defines the ad list which will be blocked/rejected in rules file
 
 # this is to block the douyin IP address from iPad.
@@ -50,6 +51,7 @@ DOMAIN-SUFFIX,xhscdn.net
 
 # add 网易音乐
 DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.163.net
 DOMAIN,music.163.com
 DOMAIN-KEYWORD,music.163.com
 
