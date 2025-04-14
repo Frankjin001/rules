@@ -3,3 +3,6 @@
 # the IP 88.212.7.11 is actually defined in above m3u file
 
 - IP-CIDR,88.212.7.11/32,no-resolve
+
+# the following is a test
+DOMAIN,live.fanmingming.com
