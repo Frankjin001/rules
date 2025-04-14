@@ -1,0 +1,5 @@
+#  Adult list, need to go with LiLiangGuang nodes
+# the real m3u file comes from https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Adult.m3u
+# the IP 88.212.7.11 is actually defined in above m3u file
+
+- IP-CIDR,88.212.7.11/32,no-resolve
