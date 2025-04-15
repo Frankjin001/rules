@@ -6,3 +6,7 @@ IP-CIDR,88.212.7.11/32,no-resolve
 
 # the following is a test
 # DOMAIN,live.fanmingming.com
+
+DOMAIN,18.svi-studio.com
+DOMAIN,59ec5453559f0.streamlock.net
+DOMAIN,stream.visit-x.tv
