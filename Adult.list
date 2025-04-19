@@ -5,9 +5,15 @@
 IP-CIDR,88.212.7.11/32,no-resolve
 IP-CIDR,104.194.10.200/32,no-resolve
 
-# the following is a test
-# DOMAIN,live.fanmingming.com
 
 DOMAIN,18.svi-studio.com
 DOMAIN,59ec5453559f0.streamlock.net
 DOMAIN,stream.visit-x.tv
+DOMAIN,live.mycamtv.com
+DOMAIN,cdn.adultiptv.net
+DOMAIN,adultiptv.net
+DOMAIN,vod2t.xpanded.com
+
+DOMAIN-SUFFIX,adultiptv.net
+
+DOMAIN-REGEX,^(.*\.)?skyearth[0-9]+\.xyz$
