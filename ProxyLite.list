@@ -7,7 +7,7 @@ DOMAIN,epg.112114.xyz
 DOMAIN,live.fanmingming.com
 
 # 测试肥羊域名走代理
-DOMAIN-SUFFIX,freetv.top
+# DOMAIN-SUFFIX,freetv.top
 
 # test for opkg update from the original source, 20241130
 DOMAIN,downloads.openwrt.org
