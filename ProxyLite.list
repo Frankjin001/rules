@@ -5,7 +5,6 @@ DOMAIN,live-hls-web-aje.getaj.net
 #DOMAIN,d2e1asnsl7br7b.cloudfront.net   ###disabled as the domain cloudfront.net is included below.
 DOMAIN,epg.112114.xyz
 DOMAIN,live.fanmingming.com
-DOMAIN,iptv.huuc.edu.cn
 
 # 测试肥羊域名走代理
 # DOMAIN-SUFFIX,freetv.top
