@@ -18,8 +18,8 @@ DOMAIN,wiki.metacubex.one
 # test for raw.githubusercontent.com, 20241202
 # DOMAIN,raw.githubusercontent.com
 
-# add 114av.one to go with proxy
-DOMAIN-SUFFIX,114av.one
+# add 114av.one to go with proxy, change to LLG airport proxy
+# DOMAIN-SUFFIX,114av.one
 
 # add copilot to go with proxy
 DOMAIN-SUFFIX,copilot.microsoft.com
