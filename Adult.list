@@ -15,5 +15,6 @@ DOMAIN,adultiptv.net
 DOMAIN,vod2t.xpanded.com
 
 DOMAIN-SUFFIX,adultiptv.net
+DOMAIN-SUFFIX,114av.one
 
 DOMAIN-REGEX,^(.*\.)?skyearth[0-9]+\.xyz$
