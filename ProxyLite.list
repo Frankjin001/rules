@@ -6,7 +6,7 @@ DOMAIN,live-hls-web-aje.getaj.net
 DOMAIN,epg.112114.xyz
 DOMAIN,live.fanmingming.com
 DOMAIN,cqshushu.ggff.net
-DOMAIN,as-hls-uk.live.cf.md.bbci.co.uk   ###this is to let audio BBC connection go through default proxy site.
+
 
 # test for opkg update from the original source, 20241130
 DOMAIN,downloads.openwrt.org
