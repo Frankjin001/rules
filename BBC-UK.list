@@ -1,4 +1,4 @@
 # This is for BBC.co.uk to go with English proxy site, 20250327
 
-#DOMAIN-SUFFIX,bbc.co.uk
-#DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
