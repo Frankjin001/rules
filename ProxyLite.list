@@ -24,7 +24,7 @@ DOMAIN,wiki.metacubex.one
 DOMAIN-SUFFIX,copilot.microsoft.com
 
 # add international IPTV web sites to go with proxy
-DOMAIN-SUFFIX,cloudfront.net
+# DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,lg.wurl.tv
 DOMAIN-SUFFIX,amagi.tv
 DOMAIN-SUFFIX,xiaomi.wurl.tv
