@@ -6,7 +6,7 @@ DOMAIN,live-hls-web-aje.getaj.net
 DOMAIN,epg.112114.xyz
 DOMAIN,live.fanmingming.com
 DOMAIN,cqshushu.ggff.net
-DOMAIN,blog.cqshushu.com
+# DOMAIN,blog.cqshushu.com
 
 
 # test for opkg update from the original source, 20241130
