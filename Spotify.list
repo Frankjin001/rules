@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,tospotify.com
+
+### 注意，这里确实是co，不是com
+DOMAIN,canvaz.scdn.co
