@@ -40,7 +40,9 @@ DOMAIN-SUFFIX,feishu.cn
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,byteeffecttos.com
 DOMAIN-SUFFIX,bytehwm.com
-DOMAIN-SUFFIX,ecombdapi.com     #抖音商城, e-commerce bytedance api
+
+#抖音商城, e-commerce bytedance api
+DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,byteimg.com
 
