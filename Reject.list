@@ -38,7 +38,11 @@ DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,feishu.cn
 DOMAIN-SUFFIX,bytetos.com
-
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,bytehwm.com
+DOMAIN-SUFFIX,ecombdapi.com     #抖音商城, e-commerce bytedance api
+DOMAIN-SUFFIX,ecombdimg.com
+DOMAIN-SUFFIX,byteimg.com
 
 DOMAIN,l7-online-self-domestic.s.dsa.cdnbuild.net
 
