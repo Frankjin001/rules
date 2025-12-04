@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,yximgs.com
-DOMAIN-SUFFIX,feishu.cn
+###DOMAIN-SUFFIX,feishu.cn    ###commented out as Lucy needs to use feishu service
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,byteeffecttos.com
 DOMAIN-SUFFIX,bytehwm.com
