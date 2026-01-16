@@ -9,29 +9,3 @@ SRC-IP-CIDR,192.168.8.200/32
 
 ## pairdrop 用于内网设备传输文件，需要直连。20251206
 DOMAIN-SUFFIX,pairdrop.net
-
-## 此处给下载软件设立端口直行，不走代理
-# --- Download Tools (Direct Connection) ---
-# Your specific fix:
-PROCESS-NAME,bitcometd
-
-# Aria2
-PROCESS-NAME,aria2c
-
-# Transmission (Router/Linux version)
-PROCESS-NAME,transmission-daemon
-
-# qBittorrent (Headless/Server version)
-PROCESS-NAME,qbittorrent-nox
-
-# uTorrent (Linux Server version)
-PROCESS-NAME,utserver
-
-# Thunder/Xunlei (Linux/Router versions often use 'etm')
-PROCESS-NAME,etm
-PROCESS-NAME,xunlei
-
-# Other common downloaders
-PROCESS-NAME,fdm
-PROCESS-NAME,folx
-PROCESS-NAME,webtorrent
