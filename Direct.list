@@ -9,3 +9,6 @@ SRC-IP-CIDR,192.168.8.200/32
 
 ## pairdrop 用于内网设备传输文件，需要直连。20251206
 DOMAIN-SUFFIX,pairdrop.net
+
+## test for iforget.apple.com on 20260314
+DOMAIN-SUFFIX,apple.com
