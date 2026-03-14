@@ -11,4 +11,4 @@ SRC-IP-CIDR,192.168.8.200/32
 DOMAIN-SUFFIX,pairdrop.net
 
 ## test for iforget.apple.com on 20260314
-DOMAIN-SUFFIX,apple.com
+## DOMAIN-SUFFIX,apple.com
