@@ -4,7 +4,9 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bbc-reporting-api.app
 
+# audio and vedio stream from akamaized BBC CDN sites
 DOMAIN,as-hls-ww-gcomm-live.akamaized.net
+DOMAIN,vs-hls-push-ww-live.akamaized.net
 
 # leave akamaized.net out of BBC list, as it cannot use Cloudclaw tunnel, which is required by above 2 sites.
 ## DOMAIN-SUFFIX,akamaized.net
