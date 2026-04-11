@@ -7,6 +7,9 @@ SRC-IP-CIDR,192.168.8.160/27
 SRC-IP-CIDR,192.168.8.192/29
 SRC-IP-CIDR,192.168.8.200/32
 
+# 只要目标端口是 82，直接走直连, 针对OK备用接口中的直播源里面不同频道对应的IP都在82端口提供服务。
+DST-PORT,82
+
 ## pairdrop 用于内网设备传输文件，需要直连。20251206
 DOMAIN-SUFFIX,pairdrop.net
 
