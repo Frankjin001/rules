@@ -8,7 +8,7 @@ SRC-IP-CIDR,192.168.8.192/29
 SRC-IP-CIDR,192.168.8.200/32
 
 # this is for IPTV-Spider docker API server api.cqshushu.com connection, it seems need direct connection, 20260412
-DOMAIN,api.cqshushu.com
+# DOMAIN,api.cqshushu.com
 
 # 只要目标端口是 82，直接走直连, 针对OK备用接口中的直播源里面不同频道对应的IP都在82端口提供服务。
 DST-PORT,82
