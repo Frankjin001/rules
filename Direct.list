@@ -12,6 +12,8 @@ DOMAIN,api.cqshushu.com
 
 # 只要目标端口是 82，直接走直连, 针对OK备用接口中的直播源里面不同频道对应的IP都在82端口提供服务。
 DST-PORT,82
+# 某个网盘资源，OK影视中点播源
+DOMAIN,vip.ffzy-play10.com
 
 ## pairdrop 用于内网设备传输文件，需要直连。20251206
 DOMAIN-SUFFIX,pairdrop.net
