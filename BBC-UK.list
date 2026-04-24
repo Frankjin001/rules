@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bbc-reporting-api.app
 
+# This is to include some domain into BBC list, make sure it won't go to US proxy as it will be charged, 20260424
+DOMAIN-SUFFIX,cdn.optimizely.com
+
 # audio stream from akamaized BBC CDN sites, vedio is still not ok to go through ClawCloud proxy.
 DOMAIN,as-hls-ww-gcomm-live.akamaized.net
 # DOMAIN,vs-hls-push-ww-live.akamaized.net
