@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,rum.optimizely.com
 DOMAIN-SUFFIX,cdn.privacy-mgmt.com
 DOMAIN-SUFFIX,edigitalsurvey.com
+DOMAIN-SUFFIX,piano.io
 
 # audio stream from akamaized BBC CDN sites, vedio is still not ok to go through ClawCloud proxy.
 DOMAIN,as-hls-ww-gcomm-live.akamaized.net
