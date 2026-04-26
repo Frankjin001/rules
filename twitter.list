@@ -1,0 +1,6 @@
+# domains for X twitter and Xchat to go with US proxies. 20260426
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,xchat.com
+DOMAIN-KEYWORD,x-cdn
