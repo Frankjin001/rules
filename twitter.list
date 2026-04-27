@@ -3,4 +3,6 @@ DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,xchat.com
-DOMAIN-KEYWORD,x-cdn
+
+# Comment this as it conflicts with 央视频, hlslive-tx-cdn.ysp.cctv.cn
+# DOMAIN-KEYWORD,x-cdn
