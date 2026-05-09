@@ -5,33 +5,24 @@ DOMAIN-SUFFIX,flowercloud.net
 DOMAIN-SUFFIX,api-flowercloud.com
 DOMAIN-SUFFIX,llg01.com
 
+# mursor TV 
+DOMAIN-SUFFIX,live.ottiptv.cc
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+
+
 
 # IPTV中Aljazeera, CNA, 电视节目单，范明明
 # DOMAIN,live-hls-web-aje.getaj.net
 # DOMAIN,d2e1asnsl7br7b.cloudfront.net   ###disabled as the domain cloudfront.net is included below.
-# DOMAIN,epg.112114.xyz
+DOMAIN,epg.112114.xyz
+DOMAIN,epg.zsdc.eu.org
+DOMAIN,epg.51zmt.top
+
 # DOMAIN,live.fanmingming.com
 # DOMAIN,cqshushu.ggff.net
 # DOMAIN,blog.cqshushu.com
 
 
-# test for opkg update from the original source, 20241130
-# DOMAIN,downloads.openwrt.org
 
-# test for wiki site of openclash doc
-# DOMAIN,wiki.metacubex.one
-
-# test for raw.githubusercontent.com, 20241202
-# DOMAIN,raw.githubusercontent.com
-
-# add 114av.one to go with proxy, change to LLG airport proxy
-# DOMAIN-SUFFIX,114av.one
-
-# add copilot to go with proxy
-# DOMAIN-SUFFIX,copilot.microsoft.com
-
-
-# 域名后缀匹配
-# DOMAIN-SUFFIX,qichiyu.com
 
 
