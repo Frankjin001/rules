@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,flowercloud.net
 DOMAIN-SUFFIX,api-flowercloud.com
 DOMAIN-SUFFIX,llg01.com
 
+# ClawCloud VPS
+DOMAIN-SUFFIX,claw.cloud
+
 # mursor TV 
 DOMAIN-SUFFIX,live.ottiptv.cc
 DOMAIN-SUFFIX,cdn.jsdelivr.net
