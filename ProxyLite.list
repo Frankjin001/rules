@@ -20,7 +20,9 @@ DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN,epg.112114.xyz
 DOMAIN,epg.zsdc.eu.org
 DOMAIN,epg.51zmt.top
-# DOMAIN,www.xn--sss604efuw.com
+DOMAIN,www.xn--sss604efuw.com
+DOMAIN,github.tbedu.top
+DOMAIN,oss4liview.moji.com
 
 # DOMAIN,live.fanmingming.com
 # DOMAIN,cqshushu.ggff.net
