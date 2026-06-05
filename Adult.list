@@ -17,5 +17,7 @@ DOMAIN,vod2t.xpanded.com
 DOMAIN-SUFFIX,adultiptv.net
 DOMAIN-SUFFIX,114av.one
 DOMAIN,b2.bttss.cc
+# ttcdn.cc 也可以直接访问, 20260605
+DOMAIN,ttcdn.cc
 
 DOMAIN-REGEX,^(.*\.)?skyearth[0-9]+\.xyz$
