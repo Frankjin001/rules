@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,llg01.com
 
 # mursor TV 
 DOMAIN-SUFFIX,live.ottiptv.cc
-DOMAIN-SUFFIX,cdn.jsdelivr.net
+# DOMAIN-SUFFIX,cdn.jsdelivr.net
 
 
 
