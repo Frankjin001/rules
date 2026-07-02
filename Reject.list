@@ -53,10 +53,9 @@ DOMAIN,l7-online-self-domestic.s.dsa.cdnbuild.net
 DOMAIN-KEYWORD,douyin
 
 # add xiaohongshu to reject list, and also remove it from direct list
-# commented on 20260621 as Jin Le Ti needs Xiaohongshu to check examination result.
-#DOMAIN-SUFFIX,xiaohongshu.com
-#DOMAIN-SUFFIX,xhscdn.com
-#DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
 
 # add 网易音乐
 DOMAIN-SUFFIX,music.163.com
