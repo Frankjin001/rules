@@ -13,8 +13,9 @@ SRC-IP-CIDR,192.168.8.200/32
 # 只要目标端口是 82，直接走直连, 针对OK备用接口中的直播源里面不同频道对应的IP都在82端口提供服务。
 # DST-PORT,82
 # 某个网盘资源，OK影视中点播源, 非凡资源 (Feifan Resources)
-DOMAIN,vip.ffzy-play10.com
-DOMAIN,vip.ffzy-play7.com
+# DOMAIN,vip.ffzy-play10.com
+# DOMAIN,vip.ffzy-play7.com
+DOMAIN-WILDCARD,vip.ffzy-play*.com,DIRECT
 
 # CloudFlare 使用直连应该更快.
 DOMAIN-SUFFIX,cloudflare.com
