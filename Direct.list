@@ -21,5 +21,10 @@ DOMAIN-SUFFIX,cloudflare.com
 ## pairdrop 用于内网设备传输文件，需要直连。20251206
 DOMAIN-SUFFIX,pairdrop.net
 
-## test for iforget.apple.com on 20260314
-## DOMAIN-SUFFIX,apple.com
+## Apple 设备的AppStore走国内直连，不影响国外iCloud账号的软件下载。 20260830
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
