@@ -5,9 +5,6 @@ DOMAIN-SUFFIX,flowercloud.net
 DOMAIN-SUFFIX,api-flowercloud.com
 DOMAIN-SUFFIX,llg01.com
 
-# ClawCloud VPS
-# DOMAIN-SUFFIX,claw.cloud
-
 # mursor TV 
 DOMAIN-SUFFIX,live.ottiptv.cc
 # DOMAIN-SUFFIX,cdn.jsdelivr.net
@@ -24,10 +21,11 @@ DOMAIN,www.xn--sss604efuw.com
 # DOMAIN,github.tbedu.top
 # DOMAIN,oss4liview.moji.com
 
-# DOMAIN,live.fanmingming.com
-# DOMAIN,cqshushu.ggff.net
-# DOMAIN,blog.cqshushu.com
-
+# for Kodi scraping from TMDB, 20260831
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,fanart.tv
 
 
 
