@@ -20,13 +20,3 @@ DOMAIN,epg.51zmt.top
 DOMAIN,www.xn--sss604efuw.com
 # DOMAIN,github.tbedu.top
 # DOMAIN,oss4liview.moji.com
-
-# for Kodi scraping from TMDB, 20260831
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,thetvdb.com
-DOMAIN-SUFFIX,fanart.tv
-
-
-
-
