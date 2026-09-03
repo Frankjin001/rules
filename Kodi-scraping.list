@@ -1,5 +1,9 @@
 # for Kodi scraping from TMDB, 20260831
+# setup this rule， 因为imdb和Kodi使用的一系列服务器位于Cloudflare网络，似乎普通Proxy的SSL的连接被CF服务器终止。
+# 目前采用CF Workers的proxy来连接Kodi服务器能解决这一问题。20260903.
+
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,kodi.tv
