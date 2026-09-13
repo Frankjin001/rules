@@ -7,3 +7,6 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,kodi.tv
+
+# 20260913, 发现chinadigitaltimes.net，中国数字时代，可能被机场屏蔽，因为审计合规等原因，改为从Cloudflare Workers代理
+DOMAIN-SUFFIX,chinadigitaltimes.net
