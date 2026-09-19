@@ -9,7 +9,8 @@ DOMAIN-SUFFIX,llg01.com
 DOMAIN-SUFFIX,live.ottiptv.cc
 # DOMAIN-SUFFIX,cdn.jsdelivr.net
 
-
+# YouTuber Qichiyu webpage
+DOMAIN-SUFFIX,qichiyu.com
 
 # IPTV中Aljazeera, CNA, 电视节目单，范明明
 # DOMAIN,live-hls-web-aje.getaj.net
