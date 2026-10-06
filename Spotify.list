@@ -1,3 +1,6 @@
+# 强制将 Echo Dot 的所有流量直接交由代理组处理
+SRC-IP-CIDR,192.168.8.113/32
+
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,tospotify.com
