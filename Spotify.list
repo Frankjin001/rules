@@ -4,4 +4,8 @@ DOMAIN-SUFFIX,tospotify.com
 
 ### 注意，这里确实是co，不是com. scdn stands for Spotify CDN, safe to include the domain to go with fireware.
 DOMAIN-SUFFIX,scdn.co
-DOMAIN,audio-fa.scdn.co
+
+# 测试将amazon域名加入
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazon.dev
+DOMAIN-SUFFIX,amazonalexa.com
