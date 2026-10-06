@@ -18,7 +18,7 @@ SRC-IP-CIDR,192.168.8.200/32
 DOMAIN-WILDCARD,vip.ffzy-play*.com,DIRECT
 
 # CloudFlare 使用直连应该更快.
-DOMAIN-SUFFIX,cloudflare.com
+# DOMAIN-SUFFIX,cloudflare.com
 
 ## pairdrop 用于内网设备传输文件，需要直连。20251206
 DOMAIN-SUFFIX,pairdrop.net
