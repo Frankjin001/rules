@@ -10,10 +10,10 @@ DOMAIN-SUFFIX,scdn.co
 
 # 测试将amazon域名加入
 # Amazon Alexa & Echo Dot 基础通信与控制心跳
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazon.dev
-DOMAIN-SUFFIX,amazonalexa.com
-DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,amazonwebservices.com
-DOMAIN-SUFFIX,aws.dev
-DOMAIN-KEYWORD,avs-alexa
+# DOMAIN-SUFFIX,amazon.com
+# DOMAIN-SUFFIX,amazon.dev
+# DOMAIN-SUFFIX,amazonalexa.com
+# DOMAIN-SUFFIX,media-amazon.com
+# DOMAIN-SUFFIX,amazonwebservices.com
+# DOMAIN-SUFFIX,aws.dev
+# DOMAIN-KEYWORD,avs-alexa
