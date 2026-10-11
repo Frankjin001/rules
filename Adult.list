@@ -24,3 +24,4 @@ DOMAIN-REGEX,^(.*\.)?skyearth[0-9]+\.xyz$
 
 # add 91porn
 DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,la.btc620.com
