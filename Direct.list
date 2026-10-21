@@ -1,11 +1,11 @@
 # 此规则只给指定的设备做代理，
 # IP段：192.168.8.150–192.168.8.200 走 DIRECT,这个和AdguardHome的DHCP定义一致。
 
-# SRC-IP-CIDR,192.168.8.150/31
-# SRC-IP-CIDR,192.168.8.152/29
-# SRC-IP-CIDR,192.168.8.160/27
-# SRC-IP-CIDR,192.168.8.192/29
-# SRC-IP-CIDR,192.168.8.200/32
+SRC-IP-CIDR,192.168.8.150/31
+SRC-IP-CIDR,192.168.8.152/29
+SRC-IP-CIDR,192.168.8.160/27
+SRC-IP-CIDR,192.168.8.192/29
+SRC-IP-CIDR,192.168.8.200/32
 
 # this is for IPTV-Spider docker API server api.cqshushu.com connection, it seems need direct connection, 20260412
 # DOMAIN,api.cqshushu.com
