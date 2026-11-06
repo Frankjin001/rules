@@ -17,3 +17,7 @@ DOMAIN,vs-hls-push-ww-live.akamaized.net
 
 #  add akamaized.net to BBC list
 DOMAIN-SUFFIX,akamaized.net
+
+# Add VOA into the list, VOA needs to be access from Cloudflare, most airports block VOA. 20261106
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,voanews.com
